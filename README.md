@@ -7,7 +7,7 @@
 ## 🔥 Project Link
 
 
-<li><a href=" https://joaovporto.github.io/interface/">Starbucks Clone</li>
+<li><a href="https://joaovporto.github.io/interface/">Interface</li>
 
 ## 🛠️ Technologies
 
